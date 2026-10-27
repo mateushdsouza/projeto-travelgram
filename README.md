@@ -1,12 +1,19 @@
 # Travelgram
 
+## Acessar no navegador
+
+**[Abrir o projeto](https://mateushdsouza.github.io/projeto-travelgram/)**
+
+Não é necessário clonar o repositório, instalar ferramentas ou baixar arquivos para visualizar a versão publicada.
+
+
 Página estática de um perfil de viagens, com apresentação, informações do perfil e galeria de fotografias.
 
 ## Tecnologias
 
 HTML e CSS, com Flexbox.
 
-## Como visualizar
+## Desenvolvimento local (opcional)
 
 ```sh
 git clone https://github.com/mateushdsouza/projeto-travelgram.git
